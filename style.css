@@ -2,4 +2,31 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sec1 {
+    background-color: #1f2937;
+}
+
+.links { 
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+#logo {
+    color: #F9FAF8;
+    width: 24px;
+}
+
+h1 {
+    color: #F9FAF8;
+    width: 48px;
+    font-size: bolder;
+}
+
+#divheader {
+    display: flex;
+    justify-content: space-evenly;
 }
